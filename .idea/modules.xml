@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AmberReflect.iml" filepath="$PROJECT_DIR$/AmberReflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amber_reflect/amber_reflect.iml" filepath="$PROJECT_DIR$/amber_reflect/amber_reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amber_reflect_example/amber_reflect_example.iml" filepath="$PROJECT_DIR$/amber_reflect_example/amber_reflect_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instantapp/instantapp.iml" filepath="$PROJECT_DIR$/instantapp/instantapp.iml" />
+    </modules>
+  </component>
+</project>
